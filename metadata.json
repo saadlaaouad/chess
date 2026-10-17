@@ -1,0 +1,6 @@
+{
+  "name": "GrandmasterMulti",
+  "description": "Professional real-time online multiplayer chess web application featuring room creation, custom invite links, move synchronization, chess engine bot practice, clocks, captured pieces, move history, game-over modal, and instant rematches.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
